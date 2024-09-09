@@ -99,7 +99,7 @@
         <section class="personal-info">
             <div class="section-title">Personal Information</div>
             <ul>
-                <li><strong>Address:</strong> Hesseløgade 1, 4. th, Copenhagen, 2100</li>
+                <li><strong>Address:</strong> Hesseløgade 1, 3. th, Copenhagen, 2100</li>
                 <li><strong>Hobbies:</strong> CrossFit Training, Learning New Languages, Cycling and Nature Exploration, Reading about Scientific Advances</li>
             </ul>
         </section>
